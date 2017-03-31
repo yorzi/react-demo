@@ -23,7 +23,7 @@ export default class LeafletView extends Component {
           />
           <Marker position={position}>
             <Popup>
-              <span>A pretty CSS3 popup. <br/> Easily customizable.</span>
+              <span>This is a position when knowing lat/lng</span>
             </Popup>
           </Marker>
         </Map>
